@@ -132,6 +132,7 @@ Esse comando serve para mudar o editor de texto do Git (que era o Vim) para o VS
     - [ ] Inglês
     - [ ] Espanhol
 - [ ] Adicionar .gitignore
+- [ ] Adicionar emoticons nos títulos
 
 <p align="right">(<a href="#inicio">Voltar ao Início</a>)</p>
 
@@ -144,13 +145,11 @@ Algumas boas práticas serão listadas abaixo, as outras estarão no *link* no f
 
 <br>
 &#10004; Comentários de uma única linha DEVEM estar em uma linha e o texto dentro DEVE ser cercado por espaços.
-
 <pre lang=html>
 &lt;!-- Este é um comentário --&gt;
 </pre>
-
+<br>
 &#10004; Comentários de várias linhas DEVEM começar e terminar em sua própria linha e o texto NÃO DEVE ser recuado.
-
 <pre lang=html>
 &lt;!--
 Este é um comentário
@@ -193,7 +192,7 @@ Espaço para listar os recursos que considero úteis e os que gostaria de dar cr
 ---
 Alguns exemplos para servir de inspiração:
 
-* [Best-README-Template](https://github.com/othneildrew/Best-README-Template/blob/master/README.md) - Esse foi usado como modelo desse readme.
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template/blob/master/README.md) - Esse exemplo foi utilizado como modelo desse *readme*.
 * [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 * [README-TEMPLATE.md](https://gist.github.com/reginadiana/e044fe93ed81aa04a10361cb841c0409#file-readme-template-md)
 
