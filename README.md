@@ -21,7 +21,7 @@
 [![Top Languages][toplanguages-shield]][calimanfilho.github.io-url]
 [![Count Languages][countlanguages-shield]][calimanfilho.github.io-url]
 [![Repository Size][repositorysize-shield]][calimanfilho.github.io-url]
-[![Last Commit][lastcommit-shield]][lastcommit-url]
+[![Last Commit][lastcommit-shield]][lastcommit-url] <br>
 [![Caliman Filho][calimanfilho-shield]][github-url]
 [![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
@@ -78,18 +78,17 @@
   </ol>
 </details>
 
----
-
 
 
 <!-- SOBRE O PROJETO -->
 ## Sobre o Projeto
----
+
 Esse projeto foi desenvolvido utilizando as aulas do Hiring Coders #03, e serve para aumentar meu entendimento em programação *Front-End*.
 
 <p align="right">(<a href="#inicio">Voltar ao Início</a>)</p>
 
 ### Linguagens Utilizadas
+
 * HTML
 * CSS
 * JavaScript
@@ -106,7 +105,7 @@ Esse projeto foi desenvolvido utilizando as aulas do Hiring Coders #03, e serve 
 
 <!-- COMEÇANDO -->
 ## Começando
----
+
 Esse projeto está sendo utilizado para aperfeiçoar meu conhecimento em HTML, CSS e JavaScript.
 
 ### Comandos Utilizados no Git para Facilitar o Desenvolvimento
@@ -124,7 +123,7 @@ Esse comando serve para mudar o editor de texto do Git (que era o Vim) para o VS
 
 <!-- ROADMAP -->
 ## Roadmap
----
+
 - [x] Adicionar leia-me (README.md)
 - [ ] Adicionar registro de alterações (CHANGELOG.md)
 - [ ] Adicionar códigos/comandos utilizados no projeto
@@ -140,7 +139,7 @@ Esse comando serve para mudar o editor de texto do Git (que era o Vim) para o VS
 
 <!-- BOAS PRÁTICAS -->
 ## Boas Práticas
----
+
 Algumas boas práticas serão listadas abaixo, as outras estarão no *link* no final da sessão.
 
 <br>
@@ -167,7 +166,7 @@ Espaço para listar os *links* de boas práticas que considero úteis.
 
 <!-- AGRADECIMENTOS -->
 ## Agradecimentos
----
+
 Espaço para listar os artigos que considero úteis e os que gostaria de dar crédito.
 
 * [Como escrever um README incrível no seu Github](https://www.alura.com.br/artigos/escrever-bom-readme)
@@ -189,7 +188,7 @@ Espaço para listar os recursos que considero úteis e os que gostaria de dar cr
 
 <!-- EXEMPLOS -->
 ## Exemplos
----
+
 Alguns exemplos para servir de inspiração:
 
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template/blob/master/README.md) - Esse exemplo foi utilizado como modelo desse *readme*.
@@ -202,14 +201,13 @@ Alguns exemplos para servir de inspiração:
 
 <!-- LINCENÇA -->
 ## Licença
----
+
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
 <p align="right">(<a href="#inicio">Voltar ao Início</a>)</p>
 
 <br>
 
----
 ---
 
 <br>
