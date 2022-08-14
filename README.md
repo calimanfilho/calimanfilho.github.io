@@ -191,6 +191,7 @@ Espaço para listar os recursos que considero úteis e os que gostaria de dar cr
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
+* [Selos de Licença no Markdown](https://gist.github.com/Gaboso/fb5b15558959cecbf16a0c8993577a57)
 
 <p align="right">(<a href="#inicio">Voltar ao Início</a>)</p>
 
@@ -222,8 +223,8 @@ Alguns exemplos para servir de inspiração:
 [github-url]: https://github.com/calimanfilho
 [issues-shield]: https://img.shields.io/github/issues/calimanfilho/calimanfilho.github.io?color=793ef9&style=flat-square
 [issues-url]: https://github.com/calimanfilho/calimanfilho.github.io/issues
-[license-shield]: https://img.shields.io/github/license/calimanfilho/calimanfilho.github.io?style=flat-square
-[license-url]: https://calimanfilho.github.io/
+[license-shield]: https://img.shields.io/github/license/calimanfilho/calimanfilho.github.io?color=793ef9&style=flat-square
+[license-url]: https://opensource.org/licenses/MIT
 [githubstars-shield]: https://img.shields.io/github/stars/calimanfilho/calimanfilho.github.io?style=social
 [githubstars-url]: https://github.com/calimanfilho/calimanfilho.github.io/stargazers
 [githubforks-shield]: https://img.shields.io/github/forks/calimanfilho/calimanfilho.github.io?style=social
