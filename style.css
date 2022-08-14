@@ -116,6 +116,7 @@ body {
     border: none;
     border-radius: 5px 0px 0px 5px;
     color: #000000;
+    outline: 0;
 }
 
 .form button {
