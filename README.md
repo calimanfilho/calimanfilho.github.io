@@ -17,10 +17,18 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<div align="center">
 
-[![GitHub][github-shield]][github-url]
+[![Top Languages][toplanguages-shield]][calimanfilho.github.io-url]
+[![Count Languages][countlanguages-shield]][calimanfilho.github.io-url]
+[![Repository Size][repositorysize-shield]][calimanfilho.github.io-url]
+[![Last Commit][lastcommit-shield]][lastcommit-url]
+[![Caliman Filho][calimanfilho-shield]][github-url]
 [![Issues][issues-shield]][issues-url]
-
+[![License][license-shield]][license-url]
+[![License][githubstars-shield]][githubstars-url]
+[![License][githubforks-shield]][githubforks-url]
+</div>
 <!-- CABEÇALHO DO PROJETO -->
 <br />
 <div align="center">
@@ -63,6 +71,7 @@
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contato">Contato</a></li>
+    <li><a href="#boas-práticas">Boas Práticas</a></li>
     <li><a href="#agradecimentos">Agradecimentos</a></li>
     <li><a href="#exemplos">Exemplos</a></li>
   </ol>
@@ -73,7 +82,7 @@
 <!-- SOBRE O PROJETO -->
 ## Sobre o Projeto
 
-Esse projeto foi desenvolvido utilizando as aulas do Hiring Coders #03, e está servido pra eu ter um maior entendimento em programação Front-End.
+Esse projeto foi desenvolvido utilizando as aulas do Hiring Coders #03, e serve para aumentar meu entendimento em programação *Front-End*.
 
 <p align="right">(<a href="#inicio">Voltar ao Início</a>)</p>
 
@@ -81,7 +90,7 @@ Esse projeto foi desenvolvido utilizando as aulas do Hiring Coders #03, e está 
 
 ### Construído com
 
-Os principais frameworks/bibliotecas usados para inicializar o projeto:
+Os principais *frameworks*/bibliotecas usados para inicializar o projeto:
 
 * [Bootstrap](https://getbootstrap.com) - Ainda vou utilizar, ta aqui para eu não esquecer.
 
@@ -139,7 +148,32 @@ Link do Projeto: [https://github.com/calimanfilho/calimanfilho.github.io](https:
 
 <p align="right">(<a href="#inicio">Voltar ao Início</a>)</p>
 
+<!-- BOAS PRÁTICAS -->
+## Boas Práticas
 
+Algumas boas práticas serão listadas abaixo, as outras estarão no *link* no final da sessão.
+
+<br />
+&#10004; Comentários de uma única linha DEVEM estar em uma linha e o texto dentro DEVE ser cercado por espaços.
+
+<pre lang=html>
+&lt;!-- Este é um comentário --&gt;
+</pre>
+
+&#10004; Comentários de várias linhas DEVEM começar e terminar em sua própria linha e o texto NÃO DEVE ser recuado.
+
+<pre lang=html>
+&lt;!--
+Este é um comentário
+que abrange várias linhas
+--&gt;
+</pre>
+
+Espaço para listar os *links* de boas práticas que considero úteis.
+
+* [HTML Style Guide](https://gist.github.com/ryansechrest/8693303)
+
+<p align="right">(<a href="#inicio">Voltar ao Início</a>)</p>
 
 <!-- AGRADECIMENTOS -->
 ## Agradecimentos
@@ -177,7 +211,20 @@ Alguns exemplos para servir de inspiração:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[github-shield]: https://img.shields.io/badge/gh-calimanfilho-blue
+
+[toplanguages-shield]: https://img.shields.io/github/languages/top/calimanfilho/calimanfilho.github.io?color=793ef9&style=flat-square
+[calimanfilho.github.io-url]: https://calimanfilho.github.io/
+[countlanguages-shield]: https://img.shields.io/github/languages/count/calimanfilho/calimanfilho.github.io?color=793ef9&style=flat-square
+[repositorysize-shield]: https://img.shields.io/github/repo-size/calimanfilho/calimanfilho.github.io?color=793ef9&style=flat-square
+[lastcommit-shield]: https://img.shields.io/github/last-commit/calimanfilho/calimanfilho.github.io?color=793ef9&style=flat-square
+[lastcommit-url]: https://github.com/calimanfilho/calimanfilho.github.io/commits
+[calimanfilho-shield]: https://img.shields.io/badge/made%20by-calimanfilho-blue?color=793ef9&style=flat-square
 [github-url]: https://github.com/calimanfilho
-[issues-shield]: https://img.shields.io/github/issues/calimanfilho/calimanfilho.github.io
+[issues-shield]: https://img.shields.io/github/issues/calimanfilho/calimanfilho.github.io?color=793ef9&style=flat-square
 [issues-url]: https://github.com/calimanfilho/calimanfilho.github.io/issues
+[license-shield]: https://img.shields.io/github/license/calimanfilho/calimanfilho.github.io?style=flat-square
+[license-url]: https://calimanfilho.github.io/
+[githubstars-shield]: https://img.shields.io/github/stars/calimanfilho/calimanfilho.github.io?style=social
+[githubstars-url]: https://github.com/calimanfilho/calimanfilho.github.io/stargazers
+[githubforks-shield]: https://img.shields.io/github/forks/calimanfilho/calimanfilho.github.io?style=social
+[githubforks-url]: https://github.com/calimanfilho/calimanfilho.github.io/network/members
