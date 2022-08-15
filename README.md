@@ -207,26 +207,15 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 <br>
 
-<!-- LINCENÇA -->
-## Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
-
-<p align="right">(<a href="#inicio">Voltar ao Início</a>)</p>
-
-<br>
-
 ---
 
 <br>
-
 <div align="center">
 
 Feito com 😆 by Esmael Caliman Filho
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![gmail][gmail-shield]][gmail-url]
-
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
