@@ -128,8 +128,9 @@ Esse comando serve para mudar o editor de texto do Git (que era o Vim) para o VS
 - [ ] Adicionar registro de alterações (CHANGELOG.md)
 - [ ] Adicionar códigos/comandos utilizados no projeto
 - [ ] Suporte a outros idiomas
-    - [ ] Inglês
-    - [ ] Espanhol
+    - [ ] Inglês (README-es_ES.MD)
+    - [ ] Espanhol (README-en_US.MD)
+    - [ ] Chinês (README-zh_CN.md)
 - [ ] Adicionar .gitignore
 - [ ] Adicionar emoticons nos títulos
 
@@ -197,7 +198,14 @@ Alguns exemplos para servir de inspiração:
 
 <p align="right">(<a href="#inicio">Voltar ao Início</a>)</p>
 
+<!-- LINCENÇA -->
+## Licença
 
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+<p align="right">(<a href="#inicio">Voltar ao Início</a>)</p>
+
+<br>
 
 <!-- LINCENÇA -->
 ## Licença
