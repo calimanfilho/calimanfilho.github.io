@@ -198,6 +198,8 @@ Alguns exemplos para servir de inspiração:
 
 <p align="right">(<a href="#inicio">Voltar ao Início</a>)</p>
 
+
+
 <!-- LINCENÇA -->
 ## Licença
 
