@@ -35,7 +35,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/calimanfilho/calimanfilho.github.io">
-    <img src="./imagens/XOsX.gif" alt="Logo" width="100">
+    <img src="./imagens/pato.gif" alt="Logo" width="100">
   </a>
   <h2 align="center">Caliman Filho</h2>
   <h3 align="center">Projeto HTML + CSS Básico</h3>
